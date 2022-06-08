@@ -34,3 +34,4 @@ Edit them according to your class labels.
 that's all, if you have a intel realsense camera you can easily find the distance of the objects you have detected
 ## You can see how the program works in the gif below.
 
+![into gif](https://github.com/bunyaminbingol/Yolo-Object-Detection-and-Distance-Measurement-With-Intel-Realsense-Camera/blob/main/intro.gif)
