@@ -10,19 +10,19 @@ You need to edit the codes in `realsense.py` line according to yourself.
 
 specify the yolo weights and config files you trained before.
 ~~~~~~~~~~~~
-45. weightsPath = "yolov4-tiny-taco.weights"
-46. configPath = "yolov4-tiny-taco.cfg"
+29. weightsPath = "yolov4-tiny-taco.weights"
+30. configPath = "yolov4-tiny-taco.cfg"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 then you need to edit the following lines in `realsense.py` 
 
 Size should be changed according to your config file
 ~~~~~~
-56. model.setInputParams(size=(608, 608), scale=1/255, swapRB=True)
+40. model.setInputParams(size=(608, 608), scale=1/255, swapRB=True)
 ~~~~~~~~~~~~~~~~~~~~
 Edit them according to your class labels.
 ~~~~~~~~~~~~
-68.  LABELS = [ 'class_name_1',
+52.  LABELS = [ 'class_name_1',
                 'class_name_2',
                 'class_name_3',
                 'class_name_4',
