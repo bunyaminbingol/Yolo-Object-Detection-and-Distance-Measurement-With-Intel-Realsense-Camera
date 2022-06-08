@@ -35,3 +35,5 @@ that's all, if you have a intel realsense camera you can easily find the distanc
 ## You can see how the program works in the gif below.
 
 ![into gif](https://github.com/bunyaminbingol/Yolo-Object-Detection-and-Distance-Measurement-With-Intel-Realsense-Camera/blob/main/intro.gif)
+
+I used the https://github.com/MehmetOKUYAR/Yolo-Object-Detection-and-Distance-Measurement-with-Zed-camera repo while creating this work
